@@ -21,43 +21,39 @@ h4 {
 }
 
 #paragrafo1 {
-    background-color: rgba(0, 0, 0, 0.6);
-    padding: 15px;
-    border-left: 5px solid #1E90FF;
-    margin: 10px 0;
+    margin: 10px 10px;
+    text-align: center;
+    font-style: italic;
+    color: #234d20;
 }
 
 #paragrafo2 {
-    background-color: rgba(0, 0, 0, 0.6);
-    padding: 15px;
-    border-left: 5px solid #32CD32;
-    margin: 10px 0;
+    margin: 10px 10px;
+    text-align: center;
+    font-style: italic;
+    color: #234d20;
 }
 
 #paragrafo3 {
-    background-color: rgba(0, 0, 0, 0.6);
-    padding: 15px;
-    border-left: 5px solid #FF4500;
-    margin: 10px 0;
+    margin: 10px 10px;
+    font-style: italic;
+    color: #234d20;
 }
 
 #paragrafo4 {
-    background-color: rgba(0, 0, 0, 0.6);
-    padding: 15px;
-    border-left: 5px solid #8A2BE2;
-    margin: 10px 0;
+    margin: 10px 10px;
+    font-style: italic;
+    color: #234d20;
 }
 
 #paragrafo5 {
-    background-color: rgba(0, 0, 0, 0.6);
-    padding: 15px;
-    border-left: 5px solid #FF1493;
-    margin: 10px 0;
+    margin: 10px 10px;
+    font-style: italic;
+    color: #234d20;
 }
 
 #paragrafo6 {
-    background-color: rgba(0, 0, 0, 0.6);
-    padding: 15px;
-    border-left: 5px solid #00CED1;
-    margin: 10px 0;
+    margin: 10px 10px;
+    font-style: italic;
+    color: #234d20;
 }
