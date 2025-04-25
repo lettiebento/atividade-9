@@ -25,6 +25,7 @@ h4 {
 }
 
 #paragrafo1 {
+    text-transform: uppercase;
     text-align: center;
     font-family: 'Georgia', serif;
     color: #234d20;
@@ -37,21 +38,25 @@ h4 {
 }
 
 #paragrafo3 {
+    font-weight: bold;
     font-style: italic;
     color: #234d20;
 }
 
 #paragrafo4 {
+    font-weight: bold;
     font-style: italic;
     color: #234d20;
 }
 
 #paragrafo5 {
+    font-weight: bold;
     font-style: italic;
     color: #234d20;
 }
 
 #paragrafo6 {
+    font-weight: bold;
     font-style: italic;
     color: #234d20;
 }
