@@ -1,3 +1,7 @@
+body {
+    margin: 0 50px; 
+}
+
 h1 {
     font-size: 50px;
     text-align: center;
@@ -23,37 +27,31 @@ h4 {
 #paragrafo1 {
     margin: 10px 10px;
     text-align: center;
-    font-style: italic;
     color: #234d20;
 }
 
 #paragrafo2 {
     margin: 10px 10px;
     text-align: center;
-    font-style: italic;
     color: #234d20;
 }
 
 #paragrafo3 {
-    margin: 10px 10px;
     font-style: italic;
     color: #234d20;
 }
 
 #paragrafo4 {
-    margin: 10px 10px;
     font-style: italic;
     color: #234d20;
 }
 
 #paragrafo5 {
-    margin: 10px 10px;
     font-style: italic;
     color: #234d20;
 }
 
 #paragrafo6 {
-    margin: 10px 10px;
     font-style: italic;
     color: #234d20;
 }
